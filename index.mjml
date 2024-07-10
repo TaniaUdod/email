@@ -119,7 +119,7 @@
             width="158px"
             height="40px"
             padding="20px 0"
-            src="./assets/logo.png"
+            src="../assets/logo.png"
           ></mj-image>
         </mj-column>
       </mj-section>
@@ -159,7 +159,7 @@
             width="250px"
             height="166px"
             padding-bottom="8px"
-            src="./assets/img-fruity.png"
+            src="../assets/img-fruity.png"
             css-class="border-img-fruity"
           ></mj-image>
         </mj-column>
@@ -182,7 +182,7 @@
             width="250px"
             height="166px"
             padding-bottom="8px"
-            src="./assets/img-fruity.png"
+            src="../assets/img-fruity.png"
             css-class="border-img-fruity"
           ></mj-image
         ></mj-column>
@@ -206,7 +206,7 @@
             width="250px"
             height="166px"
             padding-bottom="8px"
-            src="./assets/img-fruity.png"
+            src="../assets/img-fruity.png"
             css-class="border-img-fruity"
           ></mj-image>
         </mj-column>
@@ -282,14 +282,14 @@
         <mj-column width="33.33333333333333%">
           <mj-raw>
             <div class="image-container">
-              <img src="./assets/game1.png" alt="game 1" />
+              <img src="../assets/game1.png" alt="game 1" />
               <div class="overlay"><p class="overlay-text">€458,658.12</p></div>
             </div>
           </mj-raw>
           <mj-raw>
             <div class="inline-container">
               <img
-                src="./assets/microgaming.png"
+                src="../assets/microgaming.png"
                 width="16px"
                 height="16px"
                 alt="microgaming"
@@ -301,14 +301,14 @@
         <mj-column width="33.33333333333333%">
           <mj-raw>
             <div class="image-container">
-              <img src="./assets/game2.png" alt="game 2" />
+              <img src="../assets/game2.png" alt="game 2" />
               <div class="overlay"><p class="overlay-text">€458,658.12</p></div>
             </div>
           </mj-raw>
           <mj-raw>
             <div class="inline-container">
               <img
-                src="./assets/microgaming.png"
+                src="../assets/microgaming.png"
                 width="16px"
                 height="16px"
                 alt="microgaming"
@@ -320,14 +320,14 @@
         <mj-column width="33.33333333333333%">
           <mj-raw>
             <div class="image-container">
-              <img src="./assets/game3.png" alt="game 3" />
+              <img src="../assets/game3.png" alt="game 3" />
               <div class="overlay"><p class="overlay-text">€458,658.12</p></div>
             </div>
           </mj-raw>
           <mj-raw>
             <div class="inline-container">
               <img
-                src="./assets/microgaming.png"
+                src="../assets/microgaming.png"
                 width="16px"
                 height="16px"
                 alt="microgaming"
@@ -353,7 +353,7 @@
             <div class="upload-container">
               <div class="upload-container-part1">
                 <img
-                  src="./assets/phone.png"
+                  src="../assets/phone.png"
                   width="28px"
                   height="28px"
                   alt="phone"
@@ -375,7 +375,7 @@
             <div class="button-upload-container">
               <div class="button-upload">
                 <img
-                  src="./assets/cloud-download.png"
+                  src="../assets/cloud-download.png"
                   width="24px"
                   height="24px"
                   alt="cloud-download"
@@ -391,7 +391,7 @@
             <div class="connect-container">
               <div class="connect-container-shadow">
                 <img
-                  src="./assets/bell.png"
+                  src="../assets/bell.png"
                   width="28px"
                   height="28px"
                   alt="bell"
@@ -404,7 +404,7 @@
               <div class="connect-container-telegram">
                 <div class="connect-container-telegram-button">
                   <img
-                    src="./assets/telegram.png"
+                    src="../assets/telegram.png"
                     width="24px"
                     height="24px"
                     alt="telegram"
@@ -454,7 +454,7 @@
           <mj-raw>
             <div class="button-call">
               <img
-                src="./assets/call.png"
+                src="../assets/call.png"
                 width="24px"
                 height="24px"
                 alt="call"
